@@ -1,0 +1,169 @@
+[13-May-2017 19:51:13 America/New_York] PHP Warning:  include_once(dbconnection.php): failed to open stream: No such file or directory in /home/jarol/public_html/medical/loginconfirm.php on line 15
+[13-May-2017 19:51:13 America/New_York] PHP Warning:  include_once(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jarol/public_html/medical/loginconfirm.php on line 15
+[13-May-2017 19:51:13 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/jarol/public_html/medical/loginconfirm.php on line 19
+[13-May-2017 19:51:13 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 19:58:01 America/New_York] PHP Warning:  include_once(dbconnection.php): failed to open stream: No such file or directory in /home/jarol/public_html/medical/logout.php on line 2
+[13-May-2017 19:58:01 America/New_York] PHP Warning:  include_once(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jarol/public_html/medical/logout.php on line 2
+[13-May-2017 19:58:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/medical/logout.php:2) in /home/jarol/public_html/medical/logout.php on line 5
+[13-May-2017 19:59:20 America/New_York] PHP Warning:  include_once(dbconnection.php): failed to open stream: No such file or directory in /home/jarol/public_html/medical/showcart.php on line 3
+[13-May-2017 19:59:20 America/New_York] PHP Warning:  include_once(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jarol/public_html/medical/showcart.php on line 3
+[13-May-2017 19:59:20 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/medical/showcart.php:3) in /home/jarol/public_html/medical/showcart.php on line 8
+[13-May-2017 20:28:14 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'mdadmin'@'localhost' (using password: YES) in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:34:00 America/New_York] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:34:00 America/New_York] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:36:30 America/New_York] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:36:30 America/New_York] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=23064 in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:36:30 America/New_York] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:42:46 America/New_York] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:42:46 America/New_York] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=23655 in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:42:46 America/New_York] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 20:44:37 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/dbconnection.php on line 18
+[13-May-2017 20:44:37 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 20:49:56 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/dbconnection.php on line 18
+[13-May-2017 20:49:56 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 20:52:14 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/dbconnection.php on line 17
+[13-May-2017 20:52:14 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 20:54:43 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/dbconnection.php on line 17
+[13-May-2017 20:54:43 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 20:57:31 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/dbconnection.php on line 11
+[13-May-2017 20:57:31 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 20:58:03 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 21:00:09 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/dbconnection.php on line 18
+[13-May-2017 21:00:09 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 21:04:00 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'jarol_primera'@'localhost' to database 'jarol_medical' in /home/jarol/public_html/medical/dbconnection.php on line 7
+[13-May-2017 21:14:09 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/jarol/public_html/medical/loginconfirm.php on line 19
+[13-May-2017 21:14:09 America/New_York] PHP Fatal error:  Call to undefined function mysqlerror() in /home/jarol/public_html/medical/loginconfirm.php on line 20
+[13-May-2017 21:17:00 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/dbconnection.php on line 18
+[13-May-2017 21:17:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/medical/config.php:27) in /home/jarol/public_html/medical/loginconfirm.php on line 29
+[13-May-2017 21:23:47 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/medical/order.php:56) in /home/jarol/public_html/medical/order.php on line 57
+[13-May-2017 22:05:50 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/medical/showcart.php on line 64
+[13-May-2017 22:24:39 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/medical/showproducts.php on line 62
+[13-May-2017 22:24:43 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/medical/showcart.php on line 70
+[13-May-2017 22:26:24 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/medical/showcart.php on line 70
+[14-May-2017 00:04:08 America/New_York] PHP Warning:  require_once(dbConnect.php): failed to open stream: No such file or directory in /home/jarol/public_html/medical/showcart.php on line 156
+[14-May-2017 00:04:08 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'dbConnect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jarol/public_html/medical/showcart.php on line 156
+[14-May-2017 00:04:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 163
+[14-May-2017 00:04:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 172
+[14-May-2017 00:04:57 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 187
+[14-May-2017 00:07:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 163
+[14-May-2017 00:07:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 172
+[14-May-2017 00:07:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 187
+[14-May-2017 00:07:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 163
+[14-May-2017 00:07:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 172
+[14-May-2017 00:07:35 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 187
+[14-May-2017 00:08:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:08:12 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:08:12 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:12:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/medical/order.php:56) in /home/jarol/public_html/medical/order.php on line 57
+[14-May-2017 00:12:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:12:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:12:41 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:12:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:12:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:12:44 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:19:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:19:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:19:13 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:25:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:25:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:25:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:29:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:29:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:29:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:37:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:37:38 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:37:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:37:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:37:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:37:47 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:38:22 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 00:38:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:38:22 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/jarol/public_html/medical/showcart.php on line 181
+[14-May-2017 00:39:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jarol/public_html/medical/showcart.php on line 166
+[14-May-2017 00:42:40 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/jarol/public_html/medical/showcart.php on line 157
+[14-May-2017 16:04:04 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/jarol/public_html/monygol/accionregistro.php on line 11
+[14-May-2017 16:07:25 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/accionregistro.php:1) in /home/jarol/public_html/monygol/dbconnection.php on line 18
+[14-May-2017 16:07:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/accionregistro.php:1) in /home/jarol/public_html/monygol/accionregistro.php on line 11
+[18-May-2017 14:51:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/loginconfirm.php:8) in /home/jarol/public_html/monygol/loginconfirm.php on line 9
+[15-Jun-2017 13:21:01 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/addcart.php:9) in /home/jarol/public_html/monygol/dbconnection.php on line 18
+[15-Jun-2017 13:21:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/addcart.php:9) in /home/jarol/public_html/monygol/addcart.php on line 30
+[15-Jun-2017 13:24:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/order.php:56) in /home/jarol/public_html/monygol/order.php on line 57
+[15-Jun-2017 22:39:05 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/jarol/public_html/monygol/addfixture.php on line 144
+[15-Jun-2017 22:39:58 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/jarol/public_html/monygol/addfixture.php on line 143
+[15-Jun-2017 22:40:41 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/addfixture.php on line 142
+[15-Jun-2017 22:41:46 America/New_York] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 142
+[15-Jun-2017 23:01:20 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/monygol/addfixture.php on line 108
+[15-Jun-2017 23:20:45 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/jarol/public_html/monygol/addfixture.php on line 170
+[16-Jun-2017 13:37:07 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/monygol/addfixture.php on line 115
+[16-Jun-2017 13:42:02 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 115
+[16-Jun-2017 13:49:13 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/monygol/addfixture.php on line 115
+[16-Jun-2017 15:30:11 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 8
+[16-Jun-2017 15:42:25 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 3
+[16-Jun-2017 15:44:11 America/New_York] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 3
+[16-Jun-2017 15:45:03 America/New_York] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/jarol/public_html/monygol/accionfixture.php on line 3
+[16-Jun-2017 15:46:34 America/New_York] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/jarol/public_html/monygol/accionfixture.php on line 3
+[17-Jun-2017 16:59:14 America/New_York] PHP Warning:  include(select_value.php): failed to open stream: No such file or directory in /home/jarol/public_html/monygol/addfixture.php on line 96
+[17-Jun-2017 16:59:14 America/New_York] PHP Warning:  include(select_value.php): failed to open stream: No such file or directory in /home/jarol/public_html/monygol/addfixture.php on line 96
+[17-Jun-2017 16:59:14 America/New_York] PHP Warning:  include(): Failed opening 'select_value.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jarol/public_html/monygol/addfixture.php on line 96
+[17-Jun-2017 17:01:42 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/accionfixture.php:2) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[17-Jun-2017 17:01:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/accionfixture.php:2) in /home/jarol/public_html/monygol/accionfixture.php on line 8
+[17-Jun-2017 17:19:24 America/New_York] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home/jarol/public_html/monygol/accionfixture.php on line 9
+[17-Jun-2017 17:19:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jarol/public_html/monygol/accionfixture.php on line 6
+[17-Jun-2017 17:27:34 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/jarol/public_html/monygol/accionfixture.php on line 7
+[17-Jun-2017 23:53:10 America/New_York] PHP Parse error:  syntax error, unexpected ''.$row['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 172
+[18-Jun-2017 00:11:54 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/jarol/public_html/monygol/addfixture.php on line 161
+[18-Jun-2017 00:12:42 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 162
+[18-Jun-2017 00:50:03 America/New_York] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 225
+[18-Jun-2017 00:50:27 America/New_York] PHP Parse error:  syntax error, unexpected 'equipo_local' (T_STRING), expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 225
+[18-Jun-2017 00:50:30 America/New_York] PHP Parse error:  syntax error, unexpected 'equipo_local' (T_STRING), expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 225
+[18-Jun-2017 00:50:35 America/New_York] PHP Parse error:  syntax error, unexpected 'equipo_local' (T_STRING), expecting ',' or ';' in /home/jarol/public_html/monygol/addfixture.php on line 225
+[18-Jun-2017 01:04:10 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 4
+[18-Jun-2017 01:05:02 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 3
+[18-Jun-2017 01:06:27 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 3
+[18-Jun-2017 01:11:28 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 3
+[18-Jun-2017 01:17:29 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionfixture.php on line 4
+[18-Jun-2017 11:22:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jarol/public_html/monygol/accionresultado.php on line 5
+[18-Jun-2017 11:55:59 America/New_York] PHP Parse error:  syntax error, unexpected 'numero_partido' (T_STRING), expecting ',' or ';' in /home/jarol/public_html/monygol/resultado.php on line 94
+[18-Jun-2017 13:01:00 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionresultado.php on line 5
+[18-Jun-2017 13:06:02 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jarol/public_html/monygol/accionresultado.php on line 5
+[18-Jun-2017 16:43:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jarol/public_html/monygol/calculoresultado.php on line 16
+[18-Jun-2017 16:49:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jarol/public_html/monygol/calculoresultado.php on line 11
+[18-Jun-2017 20:26:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/calculoresultado.php:15) in /home/jarol/public_html/monygol/calculoresultado.php on line 30
+[18-Jun-2017 20:26:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/calculoresultado.php:15) in /home/jarol/public_html/monygol/calculoresultado.php on line 30
+[24-Jun-2017 11:12:38 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/loginconfirm.php:8) in /home/jarol/public_html/monygol/loginconfirm.php on line 9
+[24-Jun-2017 15:20:50 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:54) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:22:39 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:54) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:25:33 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:54) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:25:40 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:54) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:27:34 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:48) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:29:02 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:48) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:29:32 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:48) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:46:41 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:49) in /home/jarol/public_html/monygol/dbconnectionfixture.php on line 18
+[24-Jun-2017 15:50:34 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jarol/public_html/monygol/index.php:49) in /home/jarol/public_html/monygol/index.php on line 62
+[24-Jun-2017 17:14:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jarol/public_html/monygol/loginconfirm.php:8) in /home/jarol/public_html/monygol/loginconfirm.php on line 9
+[24-Jun-2017 19:09:01 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/jarol/public_html/monygol/accionfixture.php on line 11
+[29-Jun-2017 12:50:06 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jarol/public_html/monygol/registropagousuario.php on line 35
+[29-Jun-2017 12:51:09 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jarol/public_html/monygol/registropagousuario.php on line 35
+[29-Jun-2017 12:51:33 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jarol/public_html/monygol/registropagousuario.php on line 35
+[29-Jun-2017 12:52:36 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:05:07 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:05:24 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:05:48 America/New_York] PHP Warning:  mysql_result() expects at least 2 parameters, 1 given in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:07:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/jarol/public_html/monygol/registropagousuario.php on line 37
+[29-Jun-2017 13:09:01 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:13:49 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/jarol/public_html/monygol/registropagousuario.php on line 37
+[29-Jun-2017 13:13:49 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:13:49 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/jarol/public_html/monygol/registropagousuario.php on line 39
+[29-Jun-2017 13:14:33 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/jarol/public_html/monygol/registropagousuario.php on line 37
+[29-Jun-2017 13:14:33 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:14:33 America/New_York] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/jarol/public_html/monygol/registropagousuario.php on line 39
+[29-Jun-2017 13:17:44 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:19:58 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:19:58 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jarol/public_html/monygol/registropagousuario.php on line 43
+[29-Jun-2017 13:21:01 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/jarol/public_html/monygol/registropagousuario.php on line 39
+[29-Jun-2017 13:21:45 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:33:04 America/New_York] PHP Warning:  printf(): Too few arguments in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:33:04 America/New_York] PHP Fatal error:  Call to a member function free() on a non-object in /home/jarol/public_html/monygol/registropagousuario.php on line 42
+[29-Jun-2017 13:33:29 America/New_York] PHP Warning:  printf(): Too few arguments in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:33:49 America/New_York] PHP Warning:  printf(): Too few arguments in /home/jarol/public_html/monygol/registropagousuario.php on line 38
+[29-Jun-2017 13:38:03 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/jarol/public_html/monygol/registropagousuario.php on line 36

@@ -1,0 +1,124 @@
+    
+    .centered-form {
+        margin-top: 40px;
+        margin-bottom: 120px;
+    }
+    
+    .centered-form .panel {
+        background: rgba(255, 255, 255, 0.8);
+        box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+    }
+    
+    .centered-form .panel-default > .panel-heading {
+        background-image: linear-gradient(to bottom, #0047c9 0px, #0047c9 100%);
+        background-repeat: repeat-x;
+        color: #fff;
+    }
+        .centered-form .panel-default > .panel-body {
+background-color: rgb(238, 238, 238);
+    }
+    .btn-sample { 
+  color: #fff; 
+  background-color: #0047c9; 
+  border-color: #0047c9; 
+} 
+ 
+.btn-sample:hover, 
+.btn-sample:focus, 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  color: #0047c9; 
+  background-color: #0047c9; 
+  border-color: #0047c9; 
+} 
+ 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  background-image: none; 
+} 
+ 
+.btn-sample.disabled, 
+.btn-sample[disabled], 
+fieldset[disabled] .btn-sample, 
+.btn-sample.disabled:hover, 
+.btn-sample[disabled]:hover, 
+fieldset[disabled] .btn-sample:hover, 
+.btn-sample.disabled:focus, 
+.btn-sample[disabled]:focus, 
+fieldset[disabled] .btn-sample:focus, 
+.btn-sample.disabled:active, 
+.btn-sample[disabled]:active, 
+fieldset[disabled] .btn-sample:active, 
+.btn-sample.disabled.active, 
+.btn-sample[disabled].active, 
+fieldset[disabled] .btn-sample.active { 
+  background-color: #0047c9; 
+  border-color: #0047c9; 
+} 
+ 
+.btn-sample .badge { 
+  color: #0047c9; 
+  background-color: #0047c9; 
+}
+    .flat-table {
+        font-size: 115%;
+        overflow: auto;
+        width: 36%;
+        margin-top: 15px;
+        margin-bottom: 20px;
+        border-radius: 5px 5px 5px 5px;
+    }
+    
+    .flat-table th {
+        background-image: linear-gradient(to bottom, #0047c9 0px, #0047c9 100%);
+        background-repeat: repeat-x;
+        color: #fff;
+        font-weight: normal;
+        padding: 5px 9px 0 19px;
+        text-align: left;
+        height:45px;
+    }
+    
+    .flat-table td {
+        background-color: rgb(238, 238, 238);
+        color: rgb(111, 111, 111);
+        padding: 5px 9px 0 19px;
+        width:170px;
+    }
+    
+.navbar-custom {
+    background-image: linear-gradient(to bottom, #0047c9 0px, #0047c9 100%);
+    background-repeat: repeat-x;
+    background-color: #0047c9;
+    border-color: #0047c9;
+}
+  
+.navbar-custom .navbar-nav > li > a {
+  	color:#fff;
+  	padding-left:25px;
+  	padding-right:25px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;
+	background-color:#0047c9;
+}
+      
+.navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #0047c9;
+}
+
+.navbar-custom .navbar-toggle,
+.navbar-custom .nav .open>a, .navbar-custom .nav .open>a:hover, .navbar-custom .nav .open>a:focus {
+   background-color:#0047c9;
+}
+
+/*-- change navbar dropdown color --*/
+.navbar-custom .navbar-nav .open .dropdown-menu>li>a,.navbar-custom .navbar-nav .open .dropdown-menu {
+    color:#0047c9;
+}
+
